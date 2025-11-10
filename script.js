@@ -219,13 +219,13 @@ function initSectionAnimations() {
     elements.forEach(element => elementObserver.observe(element));
 
     (function() {
-  emailjs.init("sm08AnEPv9i2Vfjzu"); // ← ضع المفتاح العام من EmailJS
+  emailjs.init("NEEMCtOnVK5nfvnil"); // ← ضع المفتاح العام من EmailJS
 })();
 
 document.getElementById("contact-form").addEventListener("submit", function(e) {
   e.preventDefault();
 
-  emailjs.sendForm("service_jtnlzjh", "template_1g0ebr8", this)
+  emailjs.sendForm("service_iz907mq", "template_m99k8e3", this)
     .then(() => {
       alert("Dn");
     }, (error) => {
@@ -243,8 +243,8 @@ document.addEventListener('DOMContentLoaded', function () {
         e.preventDefault();
 
         emailjs.sendForm(
-            "service_jtnlzjh",   // Service ID من EmailJS
-            "template_1g0ebr8",  // Template ID من EmailJS
+            "service_iz907mq",   // Service ID من EmailJS
+            "template_m99k8e3",  // Template ID من EmailJS
             this
         ).then(
             () => {

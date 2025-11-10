@@ -1,6 +1,5 @@
-![Portfolio Screenshot](cp.png)
-
-# 🌌 Amine Portfolio Website
+![Portfolio Screenshot](bahaa.jpg)
+# 🌌 Bahaa Portfolio Website
 
 Welcome to my personal **portfolio website**, a modern showcase of my projects, skills, and contact information.  
 The website features smooth animations, typing effects, responsive design, and a clean dark red theme.
@@ -8,8 +7,9 @@ The website features smooth animations, typing effects, responsive design, and a
 ---
 
 ## 🔗 Live Demo
+
 You can preview the portfolio locally by opening `index.html` in a modern browser.  
-Or access the online demo here: [Live Demo](https://saboo24.github.io/Sabo/)
+Or access the online demo here: [https://bahaatarek20.github.io/Bahaa-Portfolio/](https://bahaatarek20.github.io/)
 
 ---
 
@@ -37,20 +37,21 @@ Or access the online demo here: [Live Demo](https://saboo24.github.io/Sabo/)
 ## ⚙️ Setup & Usage
 
 1. **Clone this repository**
-   ```bash
-   git clone https://github.com/Saboo24/Sabo.git
-   cd Sabo
-   
+
+```bash
+   git clone https://github.com/bahaatarek20/.git
+   cd Bahaa-main
+
 ---
 
 ## 📬 Contact
 
-- Email: aminehamzaoui1925@gmail.com   
-- Location: Boumerdès, Algeria  
-- LinkedIn: [LinkedIn](www.linkedin.com/in/mohamed-amine-hamzaoui-a2453a35b)  
-- GitHub: [GitHub](https://github.com/Saboo24)  
-- Instagram: [Instagram](https://www.instagram.com/a__m.i.n__e/?utm_source=ig_web_button_share_sheet)
+- Email:bhaaljml480@gmail.com
+- Location: Egypt, Giza ,EL-Badrashien  
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/bahaa-tarek-5008b0340)  
+- GitHub: [GitHub](https://github.com/bahaatarek20)  
+- Instagram: [Instagram](https://www.instagram.com/bahaa.tarek1?igsh=MTZ6ZTJhN3Zxcmx6)
 
 ---
 
-Made with ❤️ by **Amine Hamzaoui**
+Made with ❤️ by **Bahaa Tarek**
