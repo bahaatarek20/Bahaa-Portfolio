@@ -3,12 +3,6 @@
 Welcome to my personal **portfolio website**, a modern showcase of my projects, skills, and contact information.  
 The website features smooth animations, typing effects, responsive design, and a clean dark red theme.
 
----
-
-## 🔗 Live Demo
-
-You can preview the portfolio locally by opening `index.html` in a modern browser.  
-Or access the online demo here: [https://bahaatarek20.github.io/Bahaa-Portfolio/](https://bahaatarek20.github.io/)
 
 ---
 
@@ -33,13 +27,9 @@ Or access the online demo here: [https://bahaatarek20.github.io/Bahaa-Portfolio/
 
 ---
 
-## ⚙️ Setup & Usage
+## ⚙️  Usage
 
 1. **Clone this repository**
-
-```bash
-   git clone https://github.com/bahaatarek20/.git
-   cd Bahaa-main
 
 ---
 
