@@ -1,4 +1,5 @@
-![Portfolio Screenshot](bahaa.jpg)
+![![bahaa](https://github.com/user-attachments/assets/0f6edbca-1af6-42dd-a1e4-8fb551cc559a)
+](bahaa.jpg)
 # 🌌 Bahaa Portfolio Website
 
 Welcome to my personal **portfolio website**, a modern showcase of my projects, skills, and contact information.  
@@ -9,7 +10,7 @@ The website features smooth animations, typing effects, responsive design, and a
 ## 🔗 Live Demo
 
 You can preview the portfolio locally by opening `index.html` in a modern browser.  
-Or access the online demo here: [Live Demo](https://bahaatarek20.github.io/)
+Or access the online demo here: [https://bahaatarek20.github.io/Bahaa-Portfolio/](https://bahaatarek20.github.io/)
 
 ---
 
