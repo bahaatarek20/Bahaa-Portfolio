@@ -1,5 +1,3 @@
-![![bahaa](https://github.com/user-attachments/assets/0f6edbca-1af6-42dd-a1e4-8fb551cc559a)
-](bahaa.jpg)
 # 🌌 Bahaa Portfolio Website
 
 Welcome to my personal **portfolio website**, a modern showcase of my projects, skills, and contact information.  
